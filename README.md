@@ -1,4 +1,4 @@
-Ultrarathon Data Analysis Project
+Ultramarathon Data Analysis Project
   This project takes a dataset from Kaggle on ultramarathon races and demonstrates my ability to clean, organize, and visualize data, with the goal of drawing meaningful conclusions.
   It showcases my proficiency in Python, Pandas, Matplotlib, and Seaborn for data analysis.
 
